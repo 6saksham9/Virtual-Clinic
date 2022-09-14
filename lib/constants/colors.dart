@@ -8,7 +8,6 @@ Color? grey3 = Colors.grey[300];
 Color grey = Colors.grey;
 Color? darkGreen = Colors.green[700];
 Color green = Colors.green;
-Color yellow=Colors.yellow;
 Color? green4 = Colors.green[400];
 Color red = Colors.red;
 Color? mc = Colors.green;
