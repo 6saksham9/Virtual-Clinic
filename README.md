@@ -1,4 +1,4 @@
-# virtual-clinic
+# Virtual-Clinic
 
 A new Flutter project.
 
