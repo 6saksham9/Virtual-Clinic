@@ -22,7 +22,7 @@ class AboutUsScreen extends StatelessWidget {
           child: SingleChildScrollView(
             child: Column(
               children: [
-                boldText("Virtual Clinic", 20),
+                boldText("Virtual Clinic", 21),
                 Text(
                   "Quality | Technology | Innovation | Customer Satisfaction | Win together",
                   style: TextStyle(color: blue, fontSize: 18),
