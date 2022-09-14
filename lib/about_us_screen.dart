@@ -24,7 +24,7 @@ class AboutUsScreen extends StatelessWidget {
               children: [
                 boldText("Virtual Clinic", 21),
                 Text(
-                  "Quality | Technology | Innovation | Customer Satisfaction | Win together",
+                  " Quality | Technology | Innovation | Customer Satisfaction | Win together ",
                   style: TextStyle(color: blue, fontSize: 18),
                   textAlign: TextAlign.center,
                 ),
