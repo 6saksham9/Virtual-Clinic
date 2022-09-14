@@ -28,7 +28,7 @@ class AboutUsScreen extends StatelessWidget {
                   style: TextStyle(color: blue, fontSize: 18),
                   textAlign: TextAlign.center,
                 ),
-                Text("Under development.",
+                Text(" Under development.",
                   style: TextStyle(fontSize: 17),
                   textAlign: TextAlign.justify,
                 ),
