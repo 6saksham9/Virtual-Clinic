@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:agp_ziauddin_virtual_clinic/constants/colors.dart';
 import 'package:agp_ziauddin_virtual_clinic/login_as_screen.dart';
 import 'package:agp_ziauddin_virtual_clinic/login_screen.dart';
