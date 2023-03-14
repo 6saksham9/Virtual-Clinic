@@ -1,5 +1,3 @@
-
-
 import 'package:agp_ziauddin_virtual_clinic/constants/colors.dart';
 import 'package:agp_ziauddin_virtual_clinic/widgets/custom_widgets.dart';
 import 'package:flutter/material.dart';
