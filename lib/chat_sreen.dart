@@ -38,7 +38,6 @@ class _ChatScreenState extends State<ChatScreen> {
     messageStream = await DatabaseMethods().getMessages(widget.chatRoomId);
     setState(() {});
   }
-
   @override
   void initState() {
     getAndSetMessages();
