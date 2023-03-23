@@ -3,7 +3,6 @@ import 'package:agp_ziauddin_virtual_clinic/main.dart';
 import 'package:agp_ziauddin_virtual_clinic/widgets/custom_widgets.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-
 class DoctorProfileScreen extends StatefulWidget {
   const DoctorProfileScreen({Key? key}) : super(key: key);
 
